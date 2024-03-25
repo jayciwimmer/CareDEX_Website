@@ -12,7 +12,7 @@ export const DrillsList = [
     key: 0,
   },
   {
-    name: "Wild Fire Drill",
+    name: "Kitchen Fire Drill",
     image: wildfire,
     link: "firedrill",
     key: 1,
