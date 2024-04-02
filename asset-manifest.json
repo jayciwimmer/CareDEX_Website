@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CareDEX_Website/static/css/main.eb6814f3.chunk.css",
-    "main.js": "/CareDEX_Website/static/js/main.ebb7f03e.chunk.js",
-    "main.js.map": "/CareDEX_Website/static/js/main.ebb7f03e.chunk.js.map",
+    "main.js": "/CareDEX_Website/static/js/main.a601a767.chunk.js",
+    "main.js.map": "/CareDEX_Website/static/js/main.a601a767.chunk.js.map",
     "runtime-main.js": "/CareDEX_Website/static/js/runtime-main.a36eb347.js",
     "runtime-main.js.map": "/CareDEX_Website/static/js/runtime-main.a36eb347.js.map",
     "static/js/2.f376c178.chunk.js": "/CareDEX_Website/static/js/2.f376c178.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.a36eb347.js",
     "static/js/2.f376c178.chunk.js",
     "static/css/main.eb6814f3.chunk.css",
-    "static/js/main.ebb7f03e.chunk.js"
+    "static/js/main.a601a767.chunk.js"
   ]
 }
